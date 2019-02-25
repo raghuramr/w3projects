@@ -1,0 +1,17 @@
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\Resources\PaymentReceipt_ActFiber.pdf
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\Resources\PaymentReceipt_Airtel.pdf
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\Resources\PaymentReceipt_Idea.pdf
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\Resources\Phone_Airtel_Calc.xlsx
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\Resources\Phone_Airtel_Template.pdf
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\Resources\Phone_Idea_Calc.xlsx
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\Resources\Phone_Idea_Template.pdf
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\TaxClaimers.exe
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\TaxClaimers.pdb
+c:\TFS\Tools\TaxClaimers\WinAppsGens\bin\x86\Debug\itextsharp.dll
+c:\TFS\Tools\TaxClaimers\WinAppsGens\obj\x86\Debug\WinAppGens.csprojResolveAssemblyReference.cache
+c:\TFS\Tools\TaxClaimers\WinAppsGens\obj\x86\Debug\TaxClaimers.WinAppGens.Form1.resources
+c:\TFS\Tools\TaxClaimers\WinAppsGens\obj\x86\Debug\TaxClaimers.WinAppGens.Properties.Resources.resources
+c:\TFS\Tools\TaxClaimers\WinAppsGens\obj\x86\Debug\WinAppGens.csproj.GenerateResource.Cache
+c:\TFS\Tools\TaxClaimers\WinAppsGens\obj\x86\Debug\WinAppGens.csproj.CoreCompileInputs.cache
+c:\TFS\Tools\TaxClaimers\WinAppsGens\obj\x86\Debug\TaxClaimers.exe
+c:\TFS\Tools\TaxClaimers\WinAppsGens\obj\x86\Debug\TaxClaimers.pdb
